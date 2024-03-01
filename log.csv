@@ -1,3 +1,4 @@
+"id","In","Sensor","Pin","Fecha","Hora","Comentario"
 "1","InAn","28.0","19","2024-01-12","11:58:09","Alert activated Temperatura { Sensor Value: 28.200000762939453 idpinout: 20 idpino: 19 }"
 "2","InAn","28.0","19","2024-01-12","11:59:21","Alert activated Temperatura { Sensor Value: 28.299999237060547 idpinout: 20 idpino: 19 }"
 "3","InAn","28.0","19","2024-01-12","12:00:28","Alert activated Temperatura { Sensor Value: 28.299999237060547 idpinout: 20 idpino: 19 }"
